@@ -53,3 +53,5 @@ temp_*
 *.mp3
 *.wav
 *.ogg
+
+.ruff-cache
